@@ -14,7 +14,7 @@ import (
 const bpApplications = APIver + "/applications"
 
 type ApplicationInput struct {
-	ID                 int                 `json:"id"`
+	ID                 int                 `json:"id,omitempty"`
 	Name               string              `json:"name"`
 	Fields             []*starr.FieldInput `json:"fields"`
 	ImplementationName string              `json:"implementationName"`
