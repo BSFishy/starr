@@ -21,6 +21,7 @@ type ApplicationInput struct {
 	Implementation     string              `json:"implementation"`
 	ConfigContract     string              `json:"configContract"`
 	InfoLink           string              `json:"infoLink"`
+	SyncLevel          string              `json:"syncLevel"`
 	Tags               []int               `json:"tags"`
 }
 
@@ -32,6 +33,7 @@ type ApplicationOutput struct {
 	Implementation     string               `json:"implementation"`
 	ConfigContract     string               `json:"configContract"`
 	InfoLink           string               `json:"infoLink"`
+	SyncLevel          string               `json:"syncLevel"`
 	Tags               []int                `json:"tags"`
 }
 
