@@ -25,14 +25,14 @@ type ApplicationInput struct {
 }
 
 type ApplicationOutput struct {
-	ID                 int                 `json:"id"`
-	Name               string              `json:"name"`
-	Fields             []*starr.FieldInput `json:"fields"`
-	ImplementationName string              `json:"implementationName"`
-	Implementation     string              `json:"implementation"`
-	ConfigContract     string              `json:"configContract"`
-	InfoLink           string              `json:"infoLink"`
-	Tags               []int               `json:"tags"`
+	ID                 int                  `json:"id"`
+	Name               string               `json:"name"`
+	Fields             []*starr.FieldOutput `json:"fields"`
+	ImplementationName string               `json:"implementationName"`
+	Implementation     string               `json:"implementation"`
+	ConfigContract     string               `json:"configContract"`
+	InfoLink           string               `json:"infoLink"`
+	Tags               []int                `json:"tags"`
 }
 
 func (p *Prowlarr) GetApplications() ([]*ApplicationOutput, error) {
