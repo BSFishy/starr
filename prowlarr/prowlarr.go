@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 // Prowlarr contains all the methods to interact with a Prowlarr server.

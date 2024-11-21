@@ -1,4 +1,4 @@
-module golift.io/starr
+module github.com/BSFishy/starr
 
 go 1.20
 

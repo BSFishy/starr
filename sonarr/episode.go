@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpEpisode = APIver + "/episode"

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 // APIver is the Radarr API version supported by this library.

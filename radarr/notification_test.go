@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"golift.io/starr"
-	"golift.io/starr/radarr"
-	"golift.io/starr/starrtest"
+	"github.com/BSFishy/starr"
+	"github.com/BSFishy/starr/radarr"
+	"github.com/BSFishy/starr/starrtest"
 )
 
 const notificationResponseBody = `{

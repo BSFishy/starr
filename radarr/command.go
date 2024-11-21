@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpCommand = APIver + "/command"

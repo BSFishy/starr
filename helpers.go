@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"golift.io/starr/debuglog"
+	"github.com/BSFishy/starr/debuglog"
 )
 
 // App can be used to satisfy a context value key.

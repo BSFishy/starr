@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"path"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpQualityProfile = APIver + "/qualityProfile"

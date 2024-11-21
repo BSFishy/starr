@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"path"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 /* Custom Formats do not exist in Sonarr v3; this is v4 only. */

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"os"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 /* Notes to future developers of this module:

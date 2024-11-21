@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"golift.io/starr"
-	"golift.io/starr/lidarr"
-	"golift.io/starr/starrtest"
+	"github.com/BSFishy/starr"
+	"github.com/BSFishy/starr/lidarr"
+	"github.com/BSFishy/starr/starrtest"
 )
 
 func TestGetCommands(t *testing.T) {

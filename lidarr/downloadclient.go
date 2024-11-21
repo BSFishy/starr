@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"path"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 // Define Base Path for download client calls.

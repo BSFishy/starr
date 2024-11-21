@@ -8,7 +8,7 @@ import (
 	"path"
 	"time"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpQueue = APIver + "/queue"

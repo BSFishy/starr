@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 // APIver is the Sonarr API version supported by this library.

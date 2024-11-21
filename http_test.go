@@ -5,9 +5,9 @@ import (
 	"path"
 	"testing"
 
+	"github.com/BSFishy/starr"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"golift.io/starr"
 )
 
 func TestSetAPIPath(t *testing.T) {

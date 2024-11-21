@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpMetadataProfile = APIver + "/metadataprofile"

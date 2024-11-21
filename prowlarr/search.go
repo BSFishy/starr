@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpSearch = APIver + "/search"

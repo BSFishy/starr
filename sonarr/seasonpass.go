@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 /* seasonPass only seems to handle POSTs. */

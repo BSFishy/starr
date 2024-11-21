@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 // Define Base Path for Calendar queries.

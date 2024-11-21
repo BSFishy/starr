@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"golift.io/starr"
+	"github.com/BSFishy/starr"
 )
 
 const bpParse = APIver + "/parse"

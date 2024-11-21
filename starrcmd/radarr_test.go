@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"golift.io/starr/starrcmd"
+	"github.com/BSFishy/starr/starrcmd"
 )
 
 func TestRadarrApplicationUpdate(t *testing.T) {
